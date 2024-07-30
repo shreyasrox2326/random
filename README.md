@@ -17,7 +17,7 @@ Accepts an integer input from the user to generate the value of
 
 ## sierp.py
 
-This program plots the Sierpiński triangle, a well-known fractal, using matplotlib. The fractal is generated using the [chaos game method](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle#Chaos_game). This is a static program, and you can adjust the number of plotted points to change the resolution. The number of points that are plotted (affects resolution) may be modified
+This program plots the Sierpiński triangle, a well-known fractal, using matplotlib. The fractal is generated using the [chaos game method](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle#Chaos_game). The number of points that are plotted (affects resolution) may be modified.
 
 ## sierp-anim.py
 
